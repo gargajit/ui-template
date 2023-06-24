@@ -13,10 +13,10 @@ height.fixed.px: 740
 align-content: center
 
 
--- player: AJIT GARG
+-- player: Suraj Kumar Sharma
 dp: $assets.files.assets.ajit.jpg
 
-I am DevRel at FifthTry.
+I am Software Developer at IBM.
 
 -- ftd.column:
 spacing.fixed.px: 10
@@ -24,13 +24,15 @@ margin-top.px: 60
 width: fill-container
 
 -- button: LinkedIn
-link: https://www.linkedin.com/in/ajit-garg-319167190/
+link: https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/
 
 -- button: Instagram
 
--- button: Facebook
+-- button: Github
+link: https://github.com/surajsharma14
 
 -- button: Twitter
+link: https://twitter.com/suraj_sharma14
 
 
 
